@@ -1,3 +1,5 @@
 this is file 1 on master
 whooo
 File1 added third line to make conflct
+this line is added to file1 after adding a line from master to produce conflict
+
