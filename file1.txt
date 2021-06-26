@@ -1,2 +1,4 @@
 this is file 1 on master
 whooo
+this line is added to file1 after adding a line from master to produce conflict
+
